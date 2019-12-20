@@ -1,4 +1,4 @@
-variable "ssh_key" {}
+variable "SRH_SSH_KEY" {}
 
 provider "ibm" {
   generation = 1
